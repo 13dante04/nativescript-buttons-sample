@@ -1,0 +1,25 @@
+
+.btn1 {
+    border-color: red;
+    background-color: yellow;
+    border-width: 1; 
+    border-style: solid;
+    border-top-right-radius: 30;
+    border-bottom-right-radius: 30;
+}
+.btn2 {
+    border-left-color: red;
+    border-width: 1; 
+    background-color: yellow;
+    border-style: solid;
+    border-top-right-radius: 30;
+    border-bottom-right-radius: 30;
+}
+.btn3 {
+    border-left-color: red;
+    border-right-color: blue;
+    border-width: 1; 
+    background-color: yellow;
+    border-style: solid;
+    border-radius: 30;
+}
